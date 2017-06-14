@@ -1,2 +1,2 @@
-# amansoni.github.io
-Aman Soni's Website
+# amansoni
+Personal website
