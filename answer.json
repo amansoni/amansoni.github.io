@@ -1,0 +1,20 @@
+[
+{
+    "action": "talk",
+    "text": "Please dicate the new note for the patient, then press #. We will notify a typist of the new note",
+    "voiceName": "Emma"
+},
+{
+    "action": "record",
+    "eventUrl": [
+        "http://ec2-34-204-10-17.compute-1.amazonaws.com/message.php"
+    ],
+    "endOnSilence": "3",
+    "endOnKey" : "#",
+    "beepStart": "true"
+},
+{
+    "action": "talk",
+    "text": "Thank you for your message. Goodbye"
+}
+]
